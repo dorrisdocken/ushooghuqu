@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iuphaengah.wilfred.smith.name/sitemap.xml
